@@ -2,7 +2,7 @@
 layout: post
 title: "Where do i start?"
 description: "My first blog post"
-comments: true
+comments: false
 keywords: "fresh start"
 ---
 
