@@ -29,14 +29,6 @@ sass:
 # Author settings
 author:
   name     : "Dwaine Gallimore"
-
-socialIcons:
-    - name: github
-      url: "https://github.com/dwainegallimore"
-    - name: twitter
-      url: "https://twitter.com/devboi_dwaine"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/dwainegallimore"
  
 plugins:
   - jekyll-sitemap
