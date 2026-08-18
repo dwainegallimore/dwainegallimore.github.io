@@ -1,5 +1,16 @@
 <section class="intro">
-  <div class="container">
-    <p class="lead">Hi, I'm Dwaine. I like figuring out how things work.</p>
+  <div class="container" style="max-width: 768px;">
+    <div class="profile-card p-2 rounded border">
+      <div class="row g-0 align-items-center">
+        <div class="col-sm-3">
+          <img src="{{ '/assets/images/author.jpg' | prepend: site.baseurl | prepend: site.url }}" class="img-fluid rounded" alt="{{ site.author.name }}">
+        </div>
+        <div class="col-sm-9 p-2 font-monospace">
+          <h3 class="mb-1">{{ site.author.name }}</h3>
+          <span class="profile-tag">Software Engineer &middot; Homelab Tinkerer</span>
+          <p class="lead mt-2 mb-0">{{ site.description }}</p>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
