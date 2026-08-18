@@ -43,10 +43,14 @@ categories_shown:
 
 # navbar pages
 navbar:
-  - slug : about
-    title: About
   - slug : blog
     title: Blog
+  - slug : projects
+    title: Projects
+  - slug : homelab
+    title: Homelab
+  - slug : about
+    title: About
 
 exclude:
   - "gulp"
