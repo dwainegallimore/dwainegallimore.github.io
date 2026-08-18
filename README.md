@@ -1,6 +1,6 @@
 # gallimore.dev
 
-Personal site and blog for professional IT Support engineering write-ups and home lab / hobby experiments, published at [www.gallimore.dev](https://www.gallimore.dev) via GitHub Pages.
+Personal site and blog for professional IT Support Engineer write-ups and home lab / hobby experiments, published at [www.gallimore.dev](https://www.gallimore.dev) via GitHub Pages.
 
 Built with [Jekyll](https://jekyllrb.com/), plain CSS, and [Bootstrap](https://getbootstrap.com/) (via CDN — no Sass build step).
 
