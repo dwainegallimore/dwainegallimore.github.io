@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a software engineer who spends most of the working day solving problems for other people, and most of my spare time solving problems I've invented for myself — usually in the home lab.
+I'm a IT Support Engineer who spends most of the working day solving problems for other people, and most of my spare time solving problems I've invented for myself — usually in the home lab.
 
 This site is where both halves live: write-ups from professional software engineering work alongside the homelab and hardware experiments I get up to outside of it — self-hosting, home automation, Raspberry Pi projects, and whatever else I've been taking apart lately.
 
