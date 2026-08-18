@@ -5,7 +5,7 @@ description   : "Professional & hobby blog — software engineering, home lab ex
 keywords      : "software engineering, homelab, docker, raspberry pi, home automation, self-hosting"
 url           : https://www.gallimore.dev # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "/assets/images/author.jpg" # image uri like logo/cover image for site seo
+cover         : "/assets/images/author.jpeg" # image uri like logo/cover image for site seo
 
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
