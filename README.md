@@ -1,6 +1,6 @@
-# gallimore.dev
+# dboi.dev
 
-Personal site and blog for professional IT Support Engineer write-ups and home lab / hobby experiments, published at [www.gallimore.dev](https://www.gallimore.dev) via GitHub Pages.
+Personal site and blog for professional IT Support Engineer write-ups and home lab / hobby experiments, published at [dboi.dev](https://dboi.dev) via GitHub Pages.
 
 Built with [Jekyll](https://jekyllrb.com/), plain CSS, and [Bootstrap](https://getbootstrap.com/) (via CDN — no Sass build step).
 
@@ -15,7 +15,7 @@ Then open http://localhost:4000.
 
 ## Writing a post
 
-Add a Markdown file to `_posts/` named `YYYY-MM-DD-title.md` with front matter, e.g.:
+Add a Markdown file to `_posts/` named `DD-MM-YYYY-title.md` with front matter, e.g.:
 
 ```
 ---
