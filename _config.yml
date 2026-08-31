@@ -3,7 +3,7 @@ title_left    : "dwaine"
 title_right   : "" # default: ""
 description   : "Professional & hobby blog — software engineering, home lab experiments, and things I build and break along the way."
 keywords      : "software engineering, homelab, docker, raspberry pi, home automation, self-hosting"
-url           : https://www.gallimore.dev # site url
+url           : https://dboi.dev # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "/assets/images/author.jpeg" # image uri like logo/cover image for site seo
 
